@@ -1,9 +1,14 @@
 ![Odin Project](https://img.shields.io/badge/The_Odin_Project-Progress-orange?style=for-the-badge&logo=theodinproject&logoColor=white)
 ![UFMS SI](https://img.shields.io/badge/UFMS-Sistemas_de_Informação-blue?style=for-the-badge&logo=university&logoColor=white)
-![Analista de Sistemas](https://img.shields.io/badge/Role-Analista_de_Sistemas-brightgreen?style=for-the-badge&logo=micro-strategy&logoColor=white)
+![Analista de Sistemas](https://img.shields.io/badge/Role-Analista_de_Sistemas-purple?style=for-the-badge&logo=micro-strategy&logoColor=white)
 # 🚀 Dev Journey
 
-Olá! Este repositório é o meu **Digital Garden**, um espaço dedicado a documentar minha evolução técnica diária, desafios superados e a consolidação de conhecimentos acadêmicos e práticos.
+Olá! Este repositório é o meu espaço dedicado a documentar minha evolução técnica diária, desafios superados e a consolidação de conhecimentos acadêmicos e práticos.
+
+## 📍 Onde estou agora?
+[![Log Atual](https://img.shields.io/badge/Acompanhe_meu_mês-Março_2026-brightgreen?style=for-the-badge&logo=googlesheets&logoColor=white)](./logs/2026/03-marco.md)
+
+> Clique no botão acima para ver o que estou estudando **hoje**!
 
 
 ## 🎓 Contexto Acadêmico e Profissional
