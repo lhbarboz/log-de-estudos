@@ -1,18 +1,21 @@
 # 📅 17
 
 ### 📘 O que eu estudei hoje?
-* **Matéria/Curso:** 
-* **Tópico:** 
+
+* **Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali**
+  * Chapter 1
+* **The Odin Project**
+  * The Box Model
 
 ### 💡 Principais Aprendizados
-* **[Conceito 1]:** 
-* **[Conceito 2]:** 
+
+* Instalação do Kali numa virtualbox dentro do Ubuntu
+* Uso do Kali, comandos etc
+* Como todos os elementos são quadrados no CSS
+* Funcionamento margin, padding, height, width, border
+* Diferença entre border-box e content-box
 
 ### 🚧 Desafios e Bloqueios
-* **Problema:**
-* **Solução:** 
 
-### 🔗 Evidências e Links
-* **Commit do dia:**
-* **Projeto:**
-* **Print/Diagrama:** 
+* **Problema:** Muita teoria introdutória
+* **Solução:** Alternar entre o livro e o TOP para que assim o cérebro descanse e volte a concentrar
