@@ -16,5 +16,3 @@
 * **Commit do dia:**
 * **Projeto:**
 * **Print/Diagrama:** 
-
----

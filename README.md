@@ -6,7 +6,7 @@
 Olá! Este repositório é o meu espaço dedicado a documentar minha evolução técnica diária, desafios superados e a consolidação de conhecimentos acadêmicos e práticos.
 
 ## 📍 Onde estou agora?
-[![Log Atual](https://img.shields.io/badge/Acompanhe_meu_mês-Março_2026-brightgreen?style=for-the-badge&logo=googlesheets&logoColor=white)](./logs/2026/03-marco.md)
+[![Log Atual](https://img.shields.io/badge/Acompanhe_meu_mês-Março_2026-brightgreen?style=for-the-badge&logo=googlesheets&logoColor=white)](./logs/2026/marco.md)
 
 > Clique no botão acima para ver o que estou estudando **hoje**!
 
