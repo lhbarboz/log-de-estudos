@@ -1,0 +1,22 @@
+# --- Sistema Operacional (Ubuntu/Linux) ---
+.DS_Store
+thumbs.db
+*~
+
+# --- IDE (VS Code) ---
+.vscode/
+*.code-workspace
+
+# --- Python (Estudos na UFMS) ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# --- Obsidian (Configurações Pessoais) ---
+.obsidian/
+
+# --- Arquivos Temporários e Logs ---
+*.log
+node_modules/
