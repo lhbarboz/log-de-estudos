@@ -8,9 +8,6 @@ Olá! Este repositório é o meu espaço dedicado a documentar minha evolução 
 ## 📍 Onde estou agora?
 [![Log Atual](https://img.shields.io/badge/Acompanhe_meu_mês-Março_2026-brightgreen?style=for-the-badge&logo=googlesheets&logoColor=white)](./logs/2026/marco.md)
 
-> Clique no botão acima para ver o que estou estudando **hoje**!
-
-
 ## 🎓 Contexto Acadêmico e Profissional
 * **Curso:** Bacharelado em Sistemas de Informação (7º Semestre)
 * **Instituição:** Faculdade de Computação (FACOM) — UFMS
@@ -30,7 +27,7 @@ Utilizo este log para manter a consistência e a transparência do meu progresso
 
 | Data | Categoria | O que aprendi? | Status |
 | :--- | :--- | :--- | :--- |
-| 17/03 | Git/GitHub | Autocommit, `.gitignore` e configuração de e-mail global | ✅ Concluído |
+| 17/03 | Git/GitHub | Configuração do repo, `.gitignore` e estudos | ✅ Concluído |
 | 15/03 | Web Dev | Manipulação de caminhos relativos no projeto *Odin Recipes* | 🛠️ Em Progresso |
 
 

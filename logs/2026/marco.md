@@ -1,3 +1,18 @@
+# 📅 18
+
+### 📘 O que eu estudei hoje?
+
+* **The Odin Project**
+  * Continuação dos estudos de ontem
+* **Segurança no Kali**
+  * Estudei mais sobre o sistema e como ele funciona
+
+### 💡 Principais Aprendizados
+
+* O dia foi mais focado em aatualizar o github e estudando para a faculdade
+
+---
+
 # 📅 17
 
 ### 📘 O que eu estudei hoje?
