@@ -1,3 +1,72 @@
+# 📅 26
+
+### 📘 O que eu estudei hoje?
+
+* Iniciando no Java web (é o que sempre tive facilidade e vou tentar dar uma chance)
+* Entrega de atividades da faculdade
+* Organização do GitHub
+
+---
+
+# 📅 25
+
+### 📘 O que eu estudei hoje?
+
+* Estudos da faculdade e envio de atividades novamente
+
+---
+
+# 📅 24
+
+### 📘 O que eu estudei hoje?
+
+* Estudos da faculdade e envio de atividades
+
+---
+
+# 📅 23
+
+### 📘 O que eu estudei hoje?
+
+* Estudos sobre o TCC e me interessando com Java
+
+---
+
+# 📅 22 (Fim de semana)
+
+---
+
+# 📅 21 (Fim de semana)
+
+---
+
+# 📅 20
+
+### 📘 O que eu estudei hoje?
+
+* **The Odin Project**
+  * Continuação dos estudos de ontem
+* **Segurança no Kali**
+  * Estudei mais sobre o sistema e como ele funciona
+
+### 💡 Principais Aprendizados
+
+* O dia foi mais focado em aatualizar o github e estudando para a faculdade
+* 
+---
+
+# 📅 19
+
+### 📘 O que eu estudei hoje?
+
+* Estudos gerais sobre segurança
+
+### 💡 Principais Aprendizados
+
+* O dia foi mais focado em atualizar o github e estudar para a faculdade
+
+---
+
 # 📅 18
 
 ### 📘 O que eu estudei hoje?
